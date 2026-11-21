@@ -9,7 +9,11 @@
     "url": "https://www.frankly.app"
   },
   "homepage": "https://agentic-api.frankly.app/claude.md",
+  "repository": "https://github.com/franklyhq/frankly-claude-plugin",
+  "documentationUrl": "https://agentic-api.frankly.app/claude.md",
+  "supportUrl": "https://agentic-api.frankly.app/claude.md",
   "privacyPolicyUrl": "https://www.frankly.app/privacy",
+  "termsOfServiceUrl": "https://www.frankly.app/terms-of-service",
   "license": "MIT",
   "keywords": ["civic", "representatives", "congress", "advocacy"]
 }
