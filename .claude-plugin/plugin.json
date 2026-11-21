@@ -9,6 +9,7 @@
     "url": "https://www.frankly.app"
   },
   "homepage": "https://agentic-api.frankly.app/claude.md",
+  "privacyPolicyUrl": "https://www.frankly.app/privacy",
   "license": "MIT",
   "keywords": ["civic", "representatives", "congress", "advocacy"]
 }
