@@ -1,0 +1,14 @@
+{
+  "name": "frankly",
+  "displayName": "Frankly",
+  "version": "0.1.0",
+  "description": "Contact your U.S. representatives through your Frankly account: find who represents you, publish a real-name post and send it to their offices, each only after you approve the exact preview.",
+  "author": {
+    "name": "Frankly",
+    "email": "developers@frankly.app",
+    "url": "https://www.frankly.app"
+  },
+  "homepage": "https://agentic-api.frankly.app/claude.md",
+  "license": "MIT",
+  "keywords": ["civic", "representatives", "congress", "advocacy"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "frankly": {
+      "type": "http",
+      "url": "https://agentic-api.frankly.app/mcp/claude"
+    }
+  }
+}
